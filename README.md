@@ -4,5 +4,6 @@ My name is Hanna, and I am a strategic communicator turned web developer. I am p
 
 Some of my skills :woman_technologist: HTML5, CSS3, JavaScript ES6, React, Redux, Node.js, APIs, Styled components 
 
-Connect with me here: https://www.linkedin.com/in/hanna-norgard/
-View some of my projects here: https://hannanorgard.netlify.app/
+Connect with me here :handshake: https://www.linkedin.com/in/hanna-norgard/
+
+View some of my projects here :potted_plant: https://hannanorgard.netlify.app/
